@@ -1,0 +1,15 @@
+<!-- res/values/values.xml -->
+<resources>
+    <!-- Define your string resources here -->
+    <string name="app_name">YourAppName</string>
+    <string name="welcome_message">Welcome to YourAppName</string>
+
+    <!-- Define your color resources here -->
+    <color name="primary_color">#FF6200EE</color>
+    <color name="primary_dark_color">#FF3700B3</color>
+    <color name="accent_color">#FF03DAC5</color>
+
+    <!-- Define your dimension resources here -->
+    <dimen name="default_margin">16dp</dimen>
+    <dimen name="default_padding">16dp</dimen>
+</resources>

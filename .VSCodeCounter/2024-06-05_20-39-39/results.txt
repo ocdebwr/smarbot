@@ -1,0 +1,45 @@
+Date : 2024-06-05 20:39:39
+Directory : c:\Users\Bin\AndroidStudioProjects\SmartBot\lib
+Total : 17 files,  1202 codes, 28 comments, 61 blanks, all 1291 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Dart     |         13 |      1,199 |         28 |         60 |      1,287 |
+| JSON     |          3 |          3 |          0 |          0 |          3 |
+| Markdown |          1 |          0 |          0 |          1 |          1 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                   | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                      |         17 |      1,202 |         28 |         61 |      1,291 |
+| . (Files)                                                              |         14 |      1,199 |         28 |         61 |      1,288 |
+| assets                                                                 |          3 |          3 |          0 |          0 |          3 |
++------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                               | language | code       | comment    | blank      | total      |
++------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\Bin\AndroidStudioProjects\SmartBot\lib\README.md              | Markdown |          0 |          0 |          1 |          1 |
+| c:\Users\Bin\AndroidStudioProjects\SmartBot\lib\airqualitypage.dart    | Dart     |        107 |          0 |          1 |        108 |
+| c:\Users\Bin\AndroidStudioProjects\SmartBot\lib\assets\airquality.json | JSON     |          1 |          0 |          0 |          1 |
+| c:\Users\Bin\AndroidStudioProjects\SmartBot\lib\assets\humid.json      | JSON     |          1 |          0 |          0 |          1 |
+| c:\Users\Bin\AndroidStudioProjects\SmartBot\lib\assets\temp.json       | JSON     |          1 |          0 |          0 |          1 |
+| c:\Users\Bin\AndroidStudioProjects\SmartBot\lib\button.dart            | Dart     |         27 |          1 |          7 |         35 |
+| c:\Users\Bin\AndroidStudioProjects\SmartBot\lib\camera.dart            | Dart     |         19 |          0 |          2 |         21 |
+| c:\Users\Bin\AndroidStudioProjects\SmartBot\lib\control.dart           | Dart     |         93 |          0 |          6 |         99 |
+| c:\Users\Bin\AndroidStudioProjects\SmartBot\lib\feature.dart           | Dart     |         69 |          0 |          4 |         73 |
+| c:\Users\Bin\AndroidStudioProjects\SmartBot\lib\firebase_options.dart  | Dart     |         55 |         12 |          4 |         71 |
+| c:\Users\Bin\AndroidStudioProjects\SmartBot\lib\humidity.dart          | Dart     |         78 |          0 |          2 |         80 |
+| c:\Users\Bin\AndroidStudioProjects\SmartBot\lib\login_page.dart        | Dart     |        182 |          6 |          8 |        196 |
+| c:\Users\Bin\AndroidStudioProjects\SmartBot\lib\main.dart              | Dart     |        173 |          2 |          8 |        183 |
+| c:\Users\Bin\AndroidStudioProjects\SmartBot\lib\profile.dart           | Dart     |         93 |          2 |          3 |         98 |
+| c:\Users\Bin\AndroidStudioProjects\SmartBot\lib\sign_up_page.dart      | Dart     |        216 |          4 |          9 |        229 |
+| c:\Users\Bin\AndroidStudioProjects\SmartBot\lib\temperature.dart       | Dart     |         78 |          0 |          2 |         80 |
+| c:\Users\Bin\AndroidStudioProjects\SmartBot\lib\user_provider.dart     | Dart     |          9 |          1 |          4 |         14 |
+| Total                                                                  |          |      1,202 |         28 |         61 |      1,291 |
++------------------------------------------------------------------------+----------+------------+------------+------------+------------+

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "287425344180",
+    "firebase_url": "https://smartbot-72019-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smartbot-72019",
+    "storage_bucket": "smartbot-72019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287425344180:android:c2a426a2e98f64054f9de1",
+        "android_client_info": {
+          "package_name": "com.smartbot.smartbot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2l_DJ5q_8gQzW1nCXCYc0gXDbepqZg4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
